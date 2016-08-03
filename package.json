@@ -1,21 +1,34 @@
 {
-"name": "angular-frontend-project",
-"version": "0.0.1",
-"description": "Ejemplo de desarrollo de aplicación web con AngularJS",
-"bugs": {
-"url": "https://github.com/elguiye/AngularBlog/issues",
-"email": "gobregonortiz@gmail.com"
-},
-"license": "MIT",
-"author": {
-"name": "Guillermo Obregon Ortiz",
-"email": "gobregonortiz@gmail.com",
-"url": "http://carlosazaustre.es"
-},
-"repository": {
-"type": "git",
-"url": "https://github.com/elguiye/AngularBlog/"
-},
-"dependencies": {},
-"devDependencies": {}
+  "name": "angular-frontend-project",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo de aplicación web con AngularJS",
+  "bugs": {
+    "url": "https://github.com/elguiye/AngularBlog/issues",
+    "email": "gobregonortiz@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Guillermo Obregon Ortiz",
+    "email": "gobregonortiz@gmail.com",
+    "url": "http://carlosazaustre.es"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elguiye/AngularBlog/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "connect-history-api-fallback": "^1.2.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-stylus": "^2.5.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.0",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "nib": "^1.1.0"
+  }
 }
