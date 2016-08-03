@@ -1,0 +1,21 @@
+{
+"name": "angular-frontend-project",
+"version": "0.0.1",
+"description": "Ejemplo de desarrollo de aplicación web con AngularJS",
+"bugs": {
+"url": "https://github.com/elguiye/AngularBlog/issues",
+"email": "gobregonortiz@gmail.com"
+},
+"license": "MIT",
+"author": {
+"name": "Guillermo Obregon Ortiz",
+"email": "gobregonortiz@gmail.com",
+"url": "http://carlosazaustre.es"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/elguiye/AngularBlog/"
+},
+"dependencies": {},
+"devDependencies": {}
+}
