@@ -1,4 +1,4 @@
-# AngularBlog
-Proyecto de ejemplo sencillo con AngularJS, siguiendo el libro "Desarrollo Agil con AngularJS"
+# UsingGulp
+Proyecto de ejemplo sencillo usando Gulp
 
 @el_guiye
